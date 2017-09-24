@@ -9,7 +9,7 @@ import game_input
 import window
 import worker
 
-SLACK_TOKEN = 'xoxb-242539638209-FEc64GplHlZrKJp9kTyZVph6'
+SLACK_TOKEN = 'xoxb-242539638209-0aYhpzFty36dKPVhwwuVaRrg'
 BOT_NAME = 'bdo_bot'
 BOT_USER = 'U74FVJS65'
 IMAGE_FILE_NAME = 'bdo_ss.png'
